@@ -18,4 +18,5 @@ The CSV file includes various fields, the fields are defined as follows:
 - `avg_frame_rate`: The average frame rate of the commercial.
 - `aspect_ratio`: The aspect ratio of the commercial.
 - `source`: The source from which the commercial was obtained.
+- `source_id`: The original identifier of the video from which the commercial was obtained.
 
